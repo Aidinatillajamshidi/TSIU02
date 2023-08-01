@@ -1,0 +1,11 @@
+TSIU02
+Computer Hardware and Architecture
+Linköpings universitet
+2021
+
+Kursinnehåll:
+
+-Binär aritmetik: Talrepresentationer. Aritmetisk-logiska operationer, addition, subtraktion, multiplikation, skift.
+-Datorarkitektur: Internt dataflöde i en enkel datormodell. Instruktioner, instruktionsformat, adresseringsmoder, in- och utmatning, avbrott.
+-In- och utenheter. Portar, AD-omvandlare.
+-Mikrokontroller: Syfte och egenskaper. Inbyggda funktioner, timer, klockalternativ, black- och brown-out.
