@@ -3,9 +3,9 @@ Computer Hardware and Architecture
 Linköpings universitet
 2021
 
-Kursinnehåll:
+Course content:
 
--Binär aritmetik: Talrepresentationer. Aritmetisk-logiska operationer, addition, subtraktion, multiplikation, skift.
--Datorarkitektur: Internt dataflöde i en enkel datormodell. Instruktioner, instruktionsformat, adresseringsmoder, in- och utmatning, avbrott.
--In- och utenheter. Portar, AD-omvandlare.
--Mikrokontroller: Syfte och egenskaper. Inbyggda funktioner, timer, klockalternativ, black- och brown-out.
+- Binary arithmetic: Number representations. Arithmetic-logical functions, addition, subtraction, multiplication, shifts.
+- Computer architecture: Internal dataflow in a simple computer model. Instructions, instruction formats, addressing modes, input and output, exceptions.
+- Input- and output peripherals. Ports, A/D-conversions.
+- Mikrocontroller: Purpose and features. Built-in peripherals, timers, clocking alternatives, blackout och brownout.
